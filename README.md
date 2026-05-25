@@ -84,3 +84,5 @@ vless://你的UUID@你的Tunnel域名（或者优选域名）:443?encryption=non
 > ⚠️ 严正声明 (License & Copyright)
 本项目采用 CC BY-NC 4.0 协议进行分发。
 无论你是直接 Fork、修改源码还是重新分发，都必须保留原作者的署名，且严禁用于任何商业牟利行为。一经发现侵权，作者保留追究责任的权利。
+
+<!-- Trigger Build 2026-05-26 01:21 -->
